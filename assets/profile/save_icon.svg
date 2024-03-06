@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="save_icon" transform="translate(-306.692 -39.692)">
+    <g id="Rectangle_1864" data-name="Rectangle 1864" transform="translate(306.692 39.692)" fill="#363636" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Icon_feather-edit" data-name="Icon feather-edit" transform="translate(310.898 44.529)">
+      <g id="Path_10080" data-name="Path 10080">
+        <path id="Path_13494" data-name="Path 13494" d="M673.707,453.788H663.4a2.4,2.4,0,0,1-2.4-2.4V441.081a2.4,2.4,0,0,1,2.4-2.4h5.153a.93.93,0,1,1,0,1.86H663.4a.543.543,0,0,0-.542.542v10.306a.543.543,0,0,0,.542.542h10.306a.543.543,0,0,0,.542-.542v-5.153a.93.93,0,0,1,1.86,0v5.153A2.4,2.4,0,0,1,673.707,453.788Z" transform="translate(-661 -438.679)" fill="#363636"/>
+        <path id="Path_14749" data-name="Path 14749" d="M373.342,545.689l-3.534-3.534a.544.544,0,0,1,0-.769l0,0,.771-.771a.543.543,0,0,1,.769,0l0,0,2.381,2.381,5.095-5.1a.543.543,0,0,1,.769,0l0,0,.771.771a.544.544,0,0,1,0,.769l0,0-6.255,6.249a.542.542,0,0,1-.768,0Z" transform="translate(-365.417 -536.804)" fill="#363636" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

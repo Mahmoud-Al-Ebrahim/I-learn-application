@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819181891013",
+    "project_id": "wannalearn-14237",
+    "storage_bucket": "wannalearn-14237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819181891013:android:ba5aa9f521afab87062fac",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819181891013-6jo4b1d6gtelet4dj2acuuh2tvhde6jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx6E1XnYh3JhWydBwgUrsYEQy6b1ME0Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819181891013-6jo4b1d6gtelet4dj2acuuh2tvhde6jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

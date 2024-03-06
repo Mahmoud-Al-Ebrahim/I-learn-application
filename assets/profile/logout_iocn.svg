@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="logout_iocn" transform="translate(-328 -46)">
+    <g id="Rectangle_1865" data-name="Rectangle 1865" transform="translate(328 46)" fill="#363636" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Icon_feather-log-out" data-name="Icon feather-log-out" transform="translate(332 50)">
+      <g id="Path_11157" data-name="Path 11157" transform="translate(0 0)">
+        <path id="Path_13491" data-name="Path 13491" d="M698.84,454.172h-3.176a2.547,2.547,0,0,1-2.562-2.525V440.7a2.547,2.547,0,0,1,2.562-2.525h3.176a.961.961,0,1,1,0,1.921h-3.176a.609.609,0,0,0-.612.6v10.95a.609.609,0,0,0,.612.6h3.176a.961.961,0,1,1,0,1.921Z" transform="translate(-693.102 -438.173)" fill="#363636"/>
+      </g>
+      <g id="Path_11158" data-name="Path 11158" transform="translate(10.081 3.057)">
+        <path id="Path_13492" data-name="Path 13492" d="M704.661,451.317a.975.975,0,0,1-.689-1.664l3.28-3.28-3.28-3.279a.975.975,0,0,1,1.379-1.379l3.969,3.968a.975.975,0,0,1,0,1.379l-3.969,3.969A.976.976,0,0,1,704.661,451.317Z" transform="translate(-703.686 -441.431)" fill="#363636"/>
+      </g>
+      <g id="Path_11159" data-name="Path 11159" transform="translate(4.524 7.024)">
+        <path id="Path_13493" data-name="Path 13493" d="M708.488,447.45h-9.526a.975.975,0,1,1,0-1.95h9.526a.975.975,0,1,1,0,1.95Z" transform="translate(-697.987 -445.5)" fill="#363636"/>
+      </g>
+    </g>
+  </g>
+</svg>
